@@ -9,6 +9,7 @@ This repository is used for collecting academic writing resources in the field o
 - https://github.com/cooelf/PaperWritingTips (Latex 写作建议)
 - https://github.com/khufkens/paper_writing_checklist (对于论文每一章节的写作建议及问题自查列表)
 - https://zhuanlan.zhihu.com/p/593195527 | https://zhuanlan.zhihu.com/p/639732057 (写作逻辑)
+- https://github.com/guanyingc/cv_rebuttal_template （rebuttal模板）
 
 ## Chart Reference (图表参考)
 - https://zhuanlan.zhihu.com/p/603088040 （框架图和实验数据图的配色建议）
